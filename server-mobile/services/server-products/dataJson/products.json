@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Ravishing Ruby",
+    "slug": "ravishing-ruby",
+    "price": 200000,
+    "description": "The \"Ravishing Ruby\" red dress is a show-stopping masterpiece that effortlessly exudes elegance and allure. Crafted with impeccable attention to detail, this exquisite ensemble is designed to make heads turn and hearts skip a beat.",
+    "mainImg": "https://i.pinimg.com/originals/ac/75/28/ac752830acb851e656899311d0185bb1.jpg",
+    "authorId": "64be0864a36b5216f5f1e41b",
+    "categoryId": 1
+  },
+  {
+    "name": "Enchanted Emeralds",
+    "slug": "Enchanted-Emeralds",
+    "price": 200000,
+    "description": "Step into a world of mesmerizing elegance with our \"Enchanted Emeralds\" Green Dress Collection. Each dress in this captivating catalog is designed to embrace the enchanting allure of the lush green hue, representing nature's rejuvenating spirit and timeless sophistication.",
+    "mainImg": "https://64.media.tumblr.com/3f87fdd8f7abfaea5fab25649367ae0b/tumblr_pthre1Qika1s9scb6_640.jpg",
+    "authorId": "64be0864a36b5216f5f1e41b",
+    "categoryId": 1
+  },
+  {
+    "name": "Golden Glow",
+    "slug": "Golden-Glow",
+    "price": 200000,
+    "description": "Illuminate your world with the radiant charm of our \"Golden Glow\" Yellow Dress Collection. This captivating catalog is a celebration of the sun-kissed hue, capturing the essence of happiness, warmth, and optimism.",
+    "mainImg": "https://1.bp.blogspot.com/-EjeTfLWgQ80/YIqnUy7QggI/AAAAAAAAXes/VTYX8KGajlM0C2HDPxxpm-S4xcnxnICxACPcBGAYYCw/s0/TAEYEON%2B%2523legend%2Bmagazine%2BApril%2B2021%2BP12.jpg",
+    "categoryId": 1,
+    "authorId": "64be0864a36b5216f5f1e41b"
+  },
+  {
+    "name": "Azure Dreams",
+    "slug": "Azure-Dreams",
+    "price": 200000,
+    "description": "Dive into a realm of timeless beauty with our \"Azure Dreams\" Blue Dress Collection. Each dress in this captivating catalog is inspired by the serene and enchanting shades of blue, reflecting the tranquility of clear skies and the depths of the ocean.",
+    "mainImg": "https://lh3.googleusercontent.com/Fku6xpxJvz0Mdk99DkR9e13i97HymmqREvtfDGbfeO7QYnjjuQBxy6vHJ_Qq_yVEhPNqzGOwURK25V8PIJ7rba5gwGGUnMxN=w960-rj-nu-e365",
+    "authorId": "64be0864a36b5216f5f1e41b",
+    "categoryId": 1
+  }
+]

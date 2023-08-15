@@ -1,0 +1,26 @@
+services:
+  product_service:
+    build: ./services/server-products
+    ports:
+      - "3000:3000"
+    environment:
+      - DATABASE_URL
+      - NODE_ENV=production
+  user_service:
+    build: ./services/server-user
+    ports:
+      - "4000:4000"
+    environment:
+      - MONGGODB
+      - NODE_ENV=production
+  orchestrator:
+    build: ./orchestrator-graphQL
+    ports:
+      - "80:8000"
+    environment:
+      - NODE_ENV=production
+      - PRODUCT_SERVICE_URL=http://product_service:3000
+      - USER_SERVICE_URL=http://user_service:4000
+      - PORT
+      - PORTREDIS
+      - REDIS
